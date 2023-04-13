@@ -15,7 +15,7 @@ Code for paper, [Time-space-frequency feature Fusion for 3-channel motor imagery
 - [SDDA](https://arxiv.org/pdf/2202.09559.pdf), [LMDA-Net](https://arxiv.org/pdf/2303.16407.pdf) and [Time-space-frequency feature Fusion for 3-channel motor imagery classification](https://arxiv.org/pdf/2304.01461.pdf) are all under review,  the arxiv  is an early version, the final manuscript will be different. 
 
 # Paper Citation
-If you use this code in a scientific publication, please cite us as:
+If you use this code in a scientific publication, please cite us as:  
 % TSFF-Net  
 Miao Z, Zhao M. Time-space-frequency feature Fusion for 3-channel motor imagery classification[J]. arXiv preprint arXiv:2304.01461, 2023.
 
