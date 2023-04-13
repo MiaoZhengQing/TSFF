@@ -1,6 +1,6 @@
 
 # Description
-Code for paper, Time-space-frequency feature Fusion for 3-channel motor imagery classification
+Code for paper, [Time-space-frequency feature Fusion for 3-channel motor imagery classification](https://arxiv.org/pdf/2304.01461.pdf)
 - Provided the model required in the paper
 - Code required for the interpretable algorithms used in the paper is provided
 - Limited manpower, unoptimized code, under continuous updates.
@@ -9,6 +9,7 @@ Code for paper, Time-space-frequency feature Fusion for 3-channel motor imagery 
 - Python == 3.6 or higher
 - Pytorch == 1.10 or higher
 GPU is required. 
+
 
 
 # Paper Citation
