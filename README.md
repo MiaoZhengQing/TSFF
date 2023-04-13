@@ -16,13 +16,13 @@ Code for paper, [Time-space-frequency feature Fusion for 3-channel motor imagery
 
 # Paper Citation
 If you use this code in a scientific publication, please cite us as:
-% TSFF-Net
+% TSFF-Net  
 Miao Z, Zhao M. Time-space-frequency feature Fusion for 3-channel motor imagery classification[J]. arXiv preprint arXiv:2304.01461, 2023.
 
-% LMDA-Net
+% LMDA-Net  
 Miao Z, Zhang X, Zhao M, et al. LMDA-Net: A lightweight multi-dimensional attention network for general EEG-based brain-computer interface paradigms and interpretability[J]. arXiv preprint arXiv:2303.16407, 2023.
 
-% SDDA
+% SDDA  
 Miao Z, Zhang X, Menon C, et al. Priming Cross-Session Motor Imagery Classification with A Universal Deep Domain Adaptation Framework[J]. arXiv preprint arXiv:2202.09559, 2022.
 
 ```
