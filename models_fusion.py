@@ -115,7 +115,7 @@ class ConvGitShallowLMDA6(nn.Module):
         x_frequency = self.frequency_features(x_frequency)
         x_frequency = x_frequency.view(x_frequency.size(0), -1)
 
-        x_raw = torch.einsum('bdcw, hdc->bhcw', x_raw, self.channel_weight)  # 导联权重筛选
+        x_raw = torch.einsum('bdcw, hdc->bhcw', x_raw, self.channel_weight)  
         x_raw = self.raw_time_conv(x_raw)
         x_raw = self.raw_chanel_conv(x_raw)
         x_raw = self.depthAttention(x_raw)
