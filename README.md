@@ -1,6 +1,9 @@
 
 # Description
 Thanks Can Han @ SJTU for pointing out the EEGDepthAttention parameter update issue, which has been fixed.    
+Uploaded the model from the paper.   
+I will compare the effect of DepthAttention module based on backpropagation and DepthAttention module without backpropagation on the results of different datasets, and the results will be uploaded later.  
+
 Code for paper, [Time-space-frequency feature Fusion for 3-channel motor imagery classification](https://arxiv.org/pdf/2304.01461.pdf)
 - Provided the model required in the paper
 - Code required for the interpretable algorithms used in the paper is provided
